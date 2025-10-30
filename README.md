@@ -28,3 +28,5 @@ Visualizer uses image files (like the icon and splash logo) stored inside the sa
 -Share your own code or tools 	
 
 -Get help with Python and Pygame 	
+
+https://discord.gg/7D9kXCw8b5
